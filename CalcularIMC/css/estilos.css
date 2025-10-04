@@ -1,0 +1,57 @@
+/* Fondo general */
+body {
+    background-color: #ffe6f0; /* rosa muy clarito */
+    font-family: Arial, sans-serif;
+}
+
+/* Contenedor principal */
+.container {
+    background-color: #fff0f5; /* lavanda pastel */
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    max-width: 500px;
+    margin-top: 50px;
+}
+
+/* Título */
+h2 {
+    color: #ff4d94; /* rosa intenso */
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    color: #ff66b2; /* rosa medio */
+}
+
+/* Inputs y select */
+input.form-control,
+select.form-select {
+    border-radius: 8px;
+    border: 1px solid #ffcce6; /* borde rosa suave */
+    background-color: #fff0f5;
+}
+
+/* Botón */
+button.btn-primary {
+    background-color: #ff66b2;
+    border-color: #ff66b2;
+    font-weight: bold;
+    width: 100%;
+    transition: 0.3s;
+}
+
+button.btn-primary:hover {
+    background-color: #ff4d94;
+    border-color: #ff4d94;
+}
+
+/* Resultados */
+#resultado {
+    font-weight: bold;
+    color: #ff3399;
+    font-size: 1.2em;
+}
