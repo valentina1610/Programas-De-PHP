@@ -22,25 +22,25 @@
         <div class="mb-3">
             <label for="moneda-origen">Moneda de origen:</label>
             <select id="moneda-origen" class="form-select">
-                        <option value="dolar">Dolar</option>
-                        <option value="peso-argentino">Peso argentino</option>
-                        <option value="euros">Euros</option>
-                    </select>
+                <option value="dolar">Dolar</option>
+                <option value="peso-argentino">Peso argentino</option>
+                <option value="euros">Euros</option>
+            </select>
         </div>
         <div class="mb-3">
             <label for="moneda-destino">Moneda de destino:</label>
             <select id="moneda-destino" class="form-select">
-                        <option value="dolar">Dolar</option>
-                        <option value="peso-argentino">Peso argentino</option>
-                        <option value="euros">Euros</option>
-                    </select>
+                <option value="dolar">Dolar</option>
+                <option value="peso-argentino">Peso argentino</option>
+                <option value="euros">Euros</option>
+            </select>
         </div>
         <button id="boton-calcular" class="btn btn-primary">Calcular</button>
 
         <p class="mt-3">Resultado: <span id="resultado"></span></p>
     </div>
 
-     <!-- jQuery -->
+    <!-- jQuery -->
     <script src="recursos/jquery/jquery.min.js"></script>
 
     <!-- JS de Bootstrap -->
