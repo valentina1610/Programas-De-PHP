@@ -22,7 +22,7 @@ Clonar el repositorio:
 ```bash
 git clone https://github.com/valentina1610/Programas-De-PHP.git
 cd Programas-De-PHP
-
+```
 ## 🛠️ Tecnologías usadas
 - Lenguajes: PHP, HTML, CSS
 - Framework: Bootstrap
