@@ -23,13 +23,13 @@ Clonar el repositorio:
 git clone https://github.com/valentina1610/Programas-De-PHP.git
 cd Programas-De-PHP
 
-🛠️ Tecnologías usadas
+## 🛠️ Tecnologías usadas
 - Lenguajes: PHP, HTML, CSS
 - Framework: Bootstrap
 - IDE: Visual Studio Code
 - Servidor local: XAMPP
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Estos ejercicios fueron diseñados para:
 - Practicar la creación de programas interactivos en PHP
